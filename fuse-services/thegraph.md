@@ -11,7 +11,7 @@ description: >-
 TheGraph, a decentralized protocol for indexing and querying chain data, supports the Alterna Netork.Go to [https://thegraph.com/](https://thegraph.com/) to sign up and create your subgraph.
 
 * Follow the instructions for how to deploy the subgraph
-* in `subgraph.yaml`, the network name should be `fuse`
+* in `subgraph.yaml`, the network name should be `alterna`
 
 ## Available Subgraphs
 
@@ -27,27 +27,27 @@ on Alterna graph-node:  [https://thegraph.alternanetwork.org/subgraphs/name/fakt
 
 ### Alterna Consensus
 
-on TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus](https://thegraph.com/explorer/subgraph/fuseio/fuse-consensus)
+on TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/alterna-consensus](https://thegraph.com/explorer/subgraph/fuseio/alterna-consensus)
 
-on Alterna graph-node: [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-consensus/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-consensus/graphql)
+on Alterna graph-node: [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-consensus/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-consensus/graphql)
 
 ### Alterna Blocks
 
 Block data of the Alterna
 
-on Alterna graph-node: [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-blocks/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-blocks/graphql)
+on Alterna graph-node: [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-blocks/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-blocks/graphql)
 
 ### Alterna Entities
 
 Businesses and other entities on the Alterna
 
-One TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/fuse-entities](https://thegraph.com/explorer/subgraph/fuseio/fuse-entities)
+One TheGraph: [https://thegraph.com/explorer/subgraph/fuseio/alterna-entities](https://thegraph.com/explorer/subgraph/fuseio/alterna-entities)
 
-on Alterna graph-node:  [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-entities/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-entities/graphql)
+on Alterna graph-node:  [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-entities/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-entities/graphql)
 
 ### Alterna Bridge
 
 List of tokens bridged to the Alterna network.
 
-on Alterna graph-node: [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/fuse-ethereum-bridge/graphql)
+on Alterna graph-node: [https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-ethereum-bridge/graphql](https://thegraph.alternanetwork.org/subgraphs/name/faktchain/alterna-ethereum-bridge/graphql)
 

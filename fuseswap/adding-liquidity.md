@@ -7,7 +7,7 @@ description: We will learn on how to add liquidity to Fuseswap on ALTN/USDC pair
 **Prerequisites:**
 
 * You should be connected to Alterna RPC.
-* USDC and ALTN should be on Alterna network. To learn how to transfer them to Alterna network using Fuseswap via Bridge please go through this [**tutorial**](https://docs.alternanetwork.org/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
+* USDC and ALTN should be on Alterna network. To learn how to transfer them to Alterna network using Fuseswap via Bridge please go through this [**tutorial**](https://docs.alternanetwork.org/the-alterna-chain/token-bridges/transfer-alterna-using-bridge-on-fuseswap).
 
 **Step 1:**
 

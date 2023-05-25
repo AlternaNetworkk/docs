@@ -8,7 +8,7 @@ description: We will learn how to add liquidity on ALTN-BNB pair on Pancakeswap.
 
 ·        You should be connected to Binance smart chain RPC. \([Tutorial link](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)\)
 
-·        BNB and ALTN should be on Binance smart chain network. To learn how to bridge them from Alterna network to BSC using Fuseswap this [tutorial](https://docs.alternanetwork.org/the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap).
+·        BNB and ALTN should be on Binance smart chain network. To learn how to bridge them from Alterna network to BSC using Fuseswap this [tutorial](https://docs.alternanetwork.org/the-alterna-chain/token-bridges/transfer-alterna-using-bridge-on-fuseswap).
 
 {% hint style="info" %}
 Note: Make sure you know about [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) before adding liquidity to a pool.
@@ -33,5 +33,5 @@ Click on “Supply” and double check the details on the popup. Once done appro
 
 ![](../.gitbook/assets/image%20%2811%29.png)
 alternanetwork.org
-You can stake the LP tokens on rewards.fuse.io platform to earn more ALTN tokens.
+You can stake the LP tokens on rewards.alterna.io platform to earn more ALTN tokens.
 

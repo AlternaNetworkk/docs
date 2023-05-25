@@ -7,7 +7,7 @@ description: >-
 
 # Community creation tutorial
 
-Make sure you are connected to the Alterna network on your Metamask wallet before creating the community. Learn how to add Alterna network to Metamask using [this](https://docs.alternanetwork.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) tutorial.
+Make sure you are connected to the Alterna network on your Metamask wallet before creating the community. Learn how to add Alterna network to Metamask using [this](https://docs.alternanetwork.org/the-alterna-studio/getting-started/how-to-add-alterna-to-your-metamask) tutorial.
 
 Navigate to https://studio.alternanetwork.org/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
 
@@ -87,7 +87,7 @@ Now you can enable the different kind of Bonus which will be given to community 
 
 Similarly you can add different plug-ins through plug-in store. We are always in the process of adding new Plug-ins, if you have any requirement for a specific plug-in please let us know through our social media channels.
 
-It's been a long road, but you are finally on the last step! To be able to make easy mobile transactions using your community, **download the Alterna wallet app** on the [App Store](https://apps.apple.com/il/app/fuse-wallet/id1491783654) or [Google Play](https://play.google.com/store/apps/details?id=io.fuse.fusecash).
+It's been a long road, but you are finally on the last step! To be able to make easy mobile transactions using your community, **download the Alterna wallet app** on the [App Store](https://apps.apple.com/il/app/alterna-wallet/id1491783654) or [Google Play](https://play.google.com/store/apps/details?id=io.alterna.fusecash).
 
 Sign up using your **phone number** and **name** to create a wallet. On the app, click the top-left option bar and click '**Switch community**'. Then, press '**Scan QR to switch**' and navigate your phone camera to QR code that you can find in the '**White label wallet**' tab in the studio. Share this QR code with your community members so they can join too!
 

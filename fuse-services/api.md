@@ -4,7 +4,7 @@ description: Integrate your product to your community and token trough the Studi
 
 # Studio API
 
-## fuse-studio-backend v0.1.0
+## alterna-studio-backend v0.1.0
 
 The Alterna Studio REST API for accessing the data and the services of the Alterna network in a simple way. You can use this API to query and interact with the objects of the Alterna network such as: Communities, Tokens, Bridges and Entities.
 
@@ -194,7 +194,7 @@ GET /tokens/:address
 | factoryAddress | `String` | Factory contract that created the token |
 | blockNumber | `String` | Block number of the token's creation |
 | tokenType | `String` | Token type: basic/mintableBurnable/imported |
-| networkType | `String` | Network type where the token is issued: mainnet/ropsten/fuse |
+| networkType | `String` | Network type where the token is issued: mainnet/ropsten/alterna |
 
 ### Fetch tokens
 
@@ -206,7 +206,7 @@ GET /tokens
 
 | Name | Type | Description |
 | :--- | :--- | :--- |
-| networkType | `String` | mainnet/ropsten/fuse |
+| networkType | `String` | mainnet/ropsten/alterna |
 | page | `Number` | Page number for pagination |
 
 #### Success 200
@@ -226,7 +226,7 @@ GET /tokens/owner/:owner
 | Name | Type | Description |
 | :--- | :--- | :--- |
 | owner | `String` | account address of the token owner |
-| networkType | `String` | mainnet/ropsten/fuse |
+| networkType | `String` | mainnet/ropsten/alterna |
 
 #### Success 200
 

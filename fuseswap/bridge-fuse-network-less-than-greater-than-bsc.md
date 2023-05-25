@@ -15,7 +15,7 @@ If you would like to watch the below tutorial through a video please follow [thi
 
 **Bridging tokens from Alterna network to BSC  
   
-Note:** Make sure you are connected to ALTN network RPC. To learn how to add Alterna network RPC you can follow the tutorial [**here**](https://docs.alternanetwork.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Note:** Make sure you are connected to ALTN network RPC. To learn how to add Alterna network RPC you can follow the tutorial [**here**](https://docs.alternanetwork.org/the-alterna-studio/getting-started/how-to-add-alterna-to-your-metamask).
 
 **Step 1:** Navigate to [https://fuseswap.com](https://fuseswap.com/) . The interface will look like as shown below  
 
@@ -50,7 +50,7 @@ Use the “Connect to a wallet” on the right hand top corner to connect your w
 Select WETH from the dropdown menu and enter the amount of WETH you want to transfer from BSC to Alterna. Click on “Transfer” and approve the transaction on Metamask. Click on “Approve WETH” and approve the transaction on Metamask.
 
 {% hint style="info" %}
-**Note: The contract address of WETH on BSC is 0x2170ed0880ac9a755fd29b2688956bd959f933f8. If you do not find the token ticker of the token you are trying to bridge from BSC to fuse network, Please find out the right contract address from** [**https://bscscan.com.**](https://scan.alternanetwork.org/)\*\*\*\*
+**Note: The contract address of WETH on BSC is 0x2170ed0880ac9a755fd29b2688956bd959f933f8. If you do not find the token ticker of the token you are trying to bridge from BSC to alterna network, Please find out the right contract address from** [**https://bscscan.com.**](https://scan.alternanetwork.org/)\*\*\*\*
 {% endhint %}
 
 ![](../.gitbook/assets/6%20%289%29.png)

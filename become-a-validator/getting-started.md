@@ -19,8 +19,8 @@ To quickly become a validator, follow this steps:
 ### Step 1: Download the \`quickstart.sh\` script and an \`.env\` example file:
 
 ```text
-mkdir fuse-validator
-cd fuse-validator
+mkdir alterna-validator
+cd alterna-validator
 wget -O quickstart.sh https://raw.githubusercontent.com/PrimalDev/Alterna/master/scripts/quickstart.sh
 chmod 777 quickstart.sh
 wget -O .env https://raw.githubusercontent.com/PrimalDev/Alterna/master/scripts/examples/.env.validator.example

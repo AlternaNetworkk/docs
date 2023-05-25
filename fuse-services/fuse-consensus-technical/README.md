@@ -9,7 +9,7 @@ Consensus is a fault-tolerant mechanism that is used in blockchain systems to ac
 Being a validator is technically complex. In addition to staking Alterna, validators need to run specialist software and have 100% uptime hardware. To lower the bar and allow anyone to take part and ownership of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake consensus mechanism, a token holder can delegate his validation rights to a third-party validator who will perform the validation for them, while getting part of the reward according to the predefined agreement.
 
 {% hint style="info" %}
-All the contracts in this section are available on our [Github](https://github.com/fuseio/fuse-network/tree/master/contracts)
+All the contracts in this section are available on our [Github](https://github.com/fuseio/alterna-network/tree/master/contracts)
 {% endhint %}
 
 ## [Consensus - 0x2179261F6952f26C467B6E7916d67E944cf796dB](https://scan.alternanetwork.org/address/0x2179261F6952f26C467B6E7916d67E944cf796dB)

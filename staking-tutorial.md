@@ -10,7 +10,7 @@ How to Stake ALTN:
 
 **Step 1:**
 
-Navigate to staking.alternanetwork.org and login to your wallet through metamask. Make sure you are on Alterna network. If you are not please follow the instructions [**here**](https://docs.alternanetwork.org/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
+Navigate to staking.alternanetwork.org and login to your wallet through metamask. Make sure you are on Alterna network. If you are not please follow the instructions [**here**](https://docs.alternanetwork.org/the-alterna-studio/getting-started/how-to-add-alterna-to-your-metamask).
 
 ![](.gitbook/assets/0%20%284%29.png)
 

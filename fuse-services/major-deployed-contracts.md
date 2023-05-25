@@ -14,7 +14,7 @@
 
 ## Bridges
 
-Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or read the[ **manual** ](https://app.gitbook.com/@fuse-1/s/fuse-dev-docs/bridges/bridges)\*\*\*\*
+Do not send funds to the bridges, use [**FuseSwap**](https://fuseswap.com) or read the[ **manual** ](https://app.gitbook.com/@alterna-1/s/alterna-dev-docs/bridges/bridges)\*\*\*\*
 
 ### Ethereum&lt;-&gt;Alterna Gooddollar bridge
 

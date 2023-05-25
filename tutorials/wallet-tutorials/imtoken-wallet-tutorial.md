@@ -1,6 +1,6 @@
 # imToken wallet tutorial
 
-Below tutorial will help you understand how to add Alterna network RPC on imToken through chainlist.org and transfer/receive tokens on fuse network in imToken wallet.   
+Below tutorial will help you understand how to add Alterna network RPC on imToken through chainlist.org and transfer/receive tokens on alterna network in imToken wallet.   
   
  Note: The tutorial is made with imToken app version 2.8.4 on Android phone.  
   
