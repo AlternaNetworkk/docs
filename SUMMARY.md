@@ -54,6 +54,7 @@
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
   * [Getting started as on the Alterna testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-alterna-testnet.md)
 * [How to use Bridge](general-1/how-to-use-bridge.md)
+* [How to stake delegator](general-1/how-to-stake-delegator.md)
 
 ## Links
 

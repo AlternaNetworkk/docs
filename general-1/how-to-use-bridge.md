@@ -1,6 +1,10 @@
-# How to use Bridge
+---
+description: >-
+  Tutorial: How to Bridge Alterna Network BEP20 Token into Alterna Network
+  Mainnet Native Coin
+---
 
-Tutorial: How to Bridge Alterna Network BEP20 Token into Alterna Network Mainnet Native Coin
+# How to use Bridge
 
 Note: This tutorial assumes you already have a MetaMask wallet set up and connected to the Binance Smart Chain network.
 
