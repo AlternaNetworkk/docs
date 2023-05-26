@@ -1,2 +1,0 @@
-# BSC ↔ Alterna BNB
-
