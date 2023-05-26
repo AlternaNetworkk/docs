@@ -4,7 +4,7 @@ Tutorial: How to Bridge Alterna Network BEP20 Token into Alterna Network Mainnet
 
 Note: This tutorial assumes you already have a MetaMask wallet set up and connected to the Binance Smart Chain network.
 
-Step 1: Visit the Bridge Website Open your web browser and navigate to the Alterna Network Bridge website at https://bridge.alternanetwork.org/.
+Step 1: Visit the Bridge Website Open your web browser and navigate to the Alterna Network Bridge website at [https://bridge.alternanetwork.org/](https://bridge.alternanetwork.org/).
 
 Step 2: Connect Your Wallet Click on the "Connect Wallet" button on the website. A MetaMask popup will appear, asking you to connect your wallet. Select your MetaMask wallet from the list and click "Connect".
 
