@@ -33,7 +33,7 @@
 
 * [Network Details](general-1/network-details/README.md)
   * [Alterna Mainnet](general-1/network-details/alterna-network-mainnet.md)
-  * [Alterna Testnet Alterna](general-1/network-details/alterna-testnet.md)
+  * [Alterna Testnet Alterna](general-1/network-details/alterna-testnet-alterna.md)
   * [Token Faucets](general-1/network-details/token-faucets.md)
   * [Network Upgrades](general-1/network-details/network-upgrades/README.md)
     * [Upgrade Guide](general-1/network-details/network-upgrades/upgrade-guide.md)
@@ -56,14 +56,15 @@
   * [Major Deployed Contracts](general-1/important-smart-contracts/major-deployed-contracts.md)
   * [Bridges](general-1/important-smart-contracts/bridges/README.md)
     * [Ethereum ↔ Alterna GoodDollar Token](general-1/important-smart-contracts/bridges/ethereum-alterna-gooddollar-token.md)
-    * [Ethereum ↔ Alterna ASP20 Tokens](general-1/important-smart-contracts/bridges/ethereum-alterna-erc20-tokens.md)
+    * [Ethereum ↔ Alterna ASP20 Tokens](general-1/important-smart-contracts/bridges/ethereum-alterna-asp20-tokens.md)
     * [BSC ↔ Alterna BNB](general-1/important-smart-contracts/bridges/bsc-alterna-bnb.md)
     * [BSC ↔ Alterna Native](general-1/important-smart-contracts/bridges/bsc-alterna-native.md)
-    * [BSC  ↔ Alterna ASP20](general-1/important-smart-contracts/bridges/bsc-alterna-erc20.md)
+    * [BSC ↔ Alterna ASP20](general-1/important-smart-contracts/bridges/bsc-alterna-asp20.md)
     * [Ethereum ↔ Alterna Native](general-1/important-smart-contracts/bridges/ethereum-alterna-native.md)
 * [How to become a validator](general-1/how-to-become-a-validator/README.md)
   * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
-  * [Getting started as on the Alterna testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-spark-testnet.md)
+  * [Getting started as on the Alterna testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-alterna-testnet.md)
+* [How to use Bridge](general-1/how-to-use-bridge.md)
 
 ## Links
 
@@ -75,4 +76,3 @@
 * [Telegram](https://t.me/)
 * [Twitter](https://twitter.com/)
 * [YouTube](https://www.youtube.com/channel/)
-<!-- * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549) -->

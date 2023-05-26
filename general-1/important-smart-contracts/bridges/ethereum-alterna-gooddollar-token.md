@@ -1,0 +1,2 @@
+# Ethereum ↔ Alterna GoodDollar Token
+

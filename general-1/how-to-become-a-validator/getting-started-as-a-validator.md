@@ -13,4 +13,8 @@ To quickly become a validator, follow this steps:
 
 Read more at: [https://github.com/AlternaNetworkk/CoinNetwork/tree/master/node-example](https://github.com/AlternaNetworkk/CoinNetwork/tree/master/node-example)
 
-For live support, contact us on [Telegram](https://t.me/) or [Discord](https://discord.gg/). Good luck and happy validating!
+{% embed url="https://www.youtube.com/watch?t=5s&v=dV4msKlM32M" %}
+Video Tutorial
+{% endembed %}
+
+For live support, contact us on [Telegram](https://t.me/AlternaNetwork). Good luck and happy validating!
