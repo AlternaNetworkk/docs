@@ -5,7 +5,6 @@
 ## DOCUMENTATION <a href="#general" id="general"></a>
 
 * [Learn about the Alterna Platform](general/learn-about-the-alterna-platform/README.md)
-  * [Alterna Overview: vision, strategy and platform components](general/learn-about-the-alterna-platform/alterna-overview.md)
   * [The Alterna Blockchain](general/learn-about-the-alterna-platform/alterna-network-blockchain/README.md)
     * [Discovering the Network](general/learn-about-the-alterna-platform/alterna-network-blockchain/discovering-the-network.md)
     * [Alterna Consensus](general/learn-about-the-alterna-platform/alterna-network-blockchain/alterna-consensus.md)
