@@ -15,7 +15,6 @@
   * [Alterna Token (ALTN)](general/learn-about-the-alterna-platform/alterna-token/README.md)
     * [ALTN Tokenomics](general/learn-about-the-alterna-platform/alterna-token/alterna-tokenomics.md)
     * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting ALTN](general/learn-about-the-alterna-platform/alterna-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-alterna.md)
-    * [ALTN on Other Chains](general/learn-about-the-alterna-platform/alterna-token/alterna-on-other-chains.md)
   * [Interoperability](general/learn-about-the-alterna-platform/interoperability.md)
   * [Alterna Governance and Development](general/learn-about-the-alterna-platform/alterna-governance-and-development/README.md)
     * [Alterna Assembly](general/learn-about-the-alterna-platform/alterna-governance-and-development/alterna-assembly.md)

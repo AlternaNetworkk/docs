@@ -1,16 +1,16 @@
 # Alterna Token (ALTN)
 
-The ALTN token is the native currency of the Alterna blockchain and platform, just like ETH on Ethereum.&#x20;
+The ALTN token is the native currency of the Alterna blockchain and platform, just like ETH on Ethereum.
 
 ## ALTN utility:
 
 * **Transaction fees** Being the native currency on the Alterna blockchain, ALTN is required to pay fees to the network in order to approve transactions.
-* **Validation** Token holders can stake Alterna to become a validator. The minimal staking requirement is 1,000K. The network is growing, currently there are 60 validators. ([https://status.alternanetwork.org/](https://status.alternanetwork.org/))
+* **Validation** Token holders can stake Alterna to become a validator. The minimal staking requirement is 1,000K. The network is growing, currently there are 2 validators. ([https://status.alternanetwork.org/](https://status.alternanetwork.org/))
 * **Voting** Validators vote on protocol changes with their staked ALTN. Which means validators with higher amounts of Alterna staked can have a bigger vote on network upgrades and governance changes (until phase 2 where delegation is activated)
 * **Staking (for delegators)** Any ALTN holder can choose one or more validators to delegate any amount of ALTN they wish. They receive a share of the Alterna block rewards proportionate to the share of their stake in the total stake, minus the minimum 15% fee paid to the validator(s).
 * **Payments** As ALTN is the native currency on Alterna, sending it does not require interactions with smart contracts. Thus, ALTN transfers are potentially faster and less costly in terms of transaction fees.
 
-**IMPORTANT**: Merely possessing any amount of ALTN tokens does not endow holders with any rights to participate in the governance of the Alterna platform or any revenue streams related to its real-world performance.&#x20;
+**IMPORTANT**: Merely possessing any amount of ALTN tokens does not endow holders with any rights to participate in the governance of the Alterna platform or any revenue streams related to its real-world performance.
 
 ## Obtaining ALTN
 
@@ -22,7 +22,7 @@ ALTN is available for purchase on a number of centralized (CEX) and decentralize
 
 **DEXes:** Uniswap V2 and V3 (Ethereum), PancakeSwap (Binance Smart Chain), Quickswap (Polygon), Voltage DEX (Alterna), Sushiswap (Alterna), 1inch (Ethereum), KyberSwap (Ethereum), Loopring (Ethereum).
 
-The best information about the ALTN trading volumes and prices on various exchanges can be found on the Coingecko "Markets" [page](https://www.coingecko.com/en/coins/alterna#markets) for the token. &#x20;
+The best information about the ALTN trading volumes and prices on various exchanges can be found on the Coingecko "Markets" [page](https://www.coingecko.com/en/coins/alterna#markets) for the token.
 
 A convenient current way of purchasing ALTN straight from one's bank account is through using the [Alterna Cash](https://alterna.cash) wallet to deposit Alterna Dollars, and then swapping those to ALTN via the in-app integration with Voltage DEX.
 
